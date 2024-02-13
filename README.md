@@ -5,7 +5,7 @@
 * Developed nested comments utility feature where logged in users can add, edit and reply to commets.
 * Used **ReactJS** and Material-UI to build the front-end and **NodeJS** & **ExpressJS** to build the back-end.
 * Implemented **Depth First Traversal Graph algorithm** to get comments from **MongoDB atlas** database and render in nested manner in a React component.
-* Implemented **Json Web Token** based auth. Deployed web app on Heroku. [Live WebApp](#) | [GitHub](https://github.com/Pratik01-git/NComment)
+* Implemented **Json Web Token** based auth. Deployed web app on Heroku. [Live WebApp](#) | [GitHub](https://github.com/PratikOfficiel/Nested_Comments)
 
 ### `How to use`
 
